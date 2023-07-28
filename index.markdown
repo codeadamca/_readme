@@ -16,5 +16,5 @@ When creating GitHub repos, follow these guidelines:
 
 When creating README.md files for your GitHub repositories, follow these guidelines:
 
-1. Use one \` tic for inline code and three tics for coding blocks.
+1. Use one tic (\`) for inline code and three tics (\`\`\`) for coding blocks.
 2. Each READEME.md should use a main title using # and sub-titles when appropriate using ##.

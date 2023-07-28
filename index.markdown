@@ -1,6 +1,6 @@
-# _readem
+# _readme
 
-A set of standard for GitHub repos, README.md files, and README.md assets to a GitHub repo.
+A set of standard for GitHub repos, README.md files, and README.md assets.
 
 ## GitHub Repos
 

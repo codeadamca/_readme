@@ -9,7 +9,7 @@ A set of standard for GitHub repos, README.md files, and README.md assets to a G
 
 ## Repo Resources
 
-- [GitHub - About READEME.md files]([https://d3js.org/](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
 <a href="https://codeadam.ca">

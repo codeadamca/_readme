@@ -20,9 +20,9 @@ When creating README.md files for your GitHub repositories, follow these guideli
 2. Each README.md should use a main title using # and sub-titles when appropriate using ##.
 3. Do no include usernames or passwords in README.md files (or coding samples). Using the following format to block out confiential information:
 
-```php
-define('SENDGRID_API_KEY', '<SENDGRID_API_KEY>');
-define('SENDGRID_API_SECRET', '<SENDGRID_API_SECRET>');
-```
+  ```php
+  define('SENDGRID_API_KEY', '<SENDGRID_API_KEY>');
+  define('SENDGRID_API_SECRET', '<SENDGRID_API_SECRET>');
+  ```
 
 4. 

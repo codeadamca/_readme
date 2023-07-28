@@ -10,10 +10,11 @@ When creating GitHub repos, follow these guidelines:
 2. Repository descriptions are one short sentence using sentence case.
 3. Repository should be assigned all relevant topics.
 4. Prefix forked repositores with `forked-`. For example `forked-brickmmo-core`.
+5. Always include a `.gitignore` file. The file should at least ignore `.DS_Store` files.
 
 ## README.md Files
 
-When creating README.md files your your GitHub repositories follow these guidelines:
+When creating README.md files for your GitHub repositories, follow these guidelines:
 
-1. Use one tic for inline code and three tics for coding blocks.
+1. Use one \` tic for inline code and three tics for coding blocks.
 2. Each READEME.md should use a main title using # and sub-titles when appropriate using ##.

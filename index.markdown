@@ -18,7 +18,7 @@ When creating README.md files for your GitHub repositories, follow these guideli
 
 1. Use one tic (\`) for inline code and three tics (\`\`\`) for coding blocks. Provide the language when using coding blocks (\`\`\`php).
 2. Each README.md should use a main title using # and sub-titles when appropriate using ##.
-3. Do no include usernames or passwords in README.md files (or coding samples). Using the following format to block out confiential information:
+3. Do no include usernames or passwords in README.md files (or coding samples). Using the following format to block out sensitive information:
 
     ```php
     define('SENDGRID_API_KEY', '<SENDGRID_API_KEY>');

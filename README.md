@@ -1,6 +1,6 @@
 # _readme
 
-A set of standard for GitHub repos, README.md files, and README.md assets to a GitHub repo. 
+A set of guidelines for GitHub repos, README.md files, and README.md assets to a GitHub repo. 
 
 > This repo is available to view at  
 > [https://readme.codeadam.ca](https://readme.codeadam.ca)

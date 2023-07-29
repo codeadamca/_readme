@@ -9,8 +9,9 @@ A set of standard for GitHub repos, README.md files, and README.md assets to a G
 
 This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
 
-<img src="https://console.codeadam.ca/storage/topics/tFh07vj4ViTFLwEDtelLdCmcxNr2cMyz0BGcxBDp.png" alt="GitHub" width="60"> <img src="https://console.codeadam.ca/storage/topics/66RHQEYVThWWidxp6dYKomEJO9btDhCgebmjK53I.png" alt="Markdown" width="60">
-<img src="https://console.codeadam.ca/api/image/markdown">
+<img src="https://console.codeadam.ca/api/image/github" width="60">
+<img src="https://console.codeadam.ca/api/image/markdown" width="60">
+
 ---
 
 ## Repo Resources

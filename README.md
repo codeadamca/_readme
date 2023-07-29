@@ -5,7 +5,9 @@ A set of standard for GitHub repos, README.md files, and README.md assets to a G
 > This repo is available to view at  
 > [https://readme.codeadam.ca](https://readme.codeadam.ca)
 
-## Stack
+---
+
+## Project Stack
 
 This project uses only [Markdown](https://www.markdownguide.org/) and is hosted using [GitHub Pages](https://pages.github.com/).
 

@@ -34,3 +34,8 @@ When adding images to a README.md file, place the files inside a folder names `_
 3. Most screenshots are 624 pixels wide. Terminal screenshots are 400 pixels wide. 
 4. Screenshot files are prefixed with `screenshot`. For example `screenshot-codeadam-ca.png`.
 
+---
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="50">
+</a>

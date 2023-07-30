@@ -17,6 +17,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
+- [_readme](https://readme.codeadam.ca)
 - [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 

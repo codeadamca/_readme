@@ -21,8 +21,8 @@ When creating README.md files for your GitHub repositories, follow these guideli
 3. Do not include usernames or passwords in README.md files (or coding samples). Using the following format to block out sensitive information:
 
     ```php
-    define('SENDGRID_API_KEY', '<SENDGRID_API_KEY>');
-    define('SENDGRID_API_SECRET', '<SENDGRID_API_SECRET>');
+    define('API_KEY', '<API_KEY>');
+    define('API_SECRET', '<API_SECRET>');
     ```
     
 ## README.md Assets

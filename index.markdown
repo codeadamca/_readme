@@ -8,9 +8,11 @@ When creating GitHub repos, follow these guidelines:
 
 1. Repository names are all lowercase and use the kebab-case naming convention. For example `php-contact-form`, `html-forms`, or `personal-portfolio`.
 2. Repository descriptions are one short sentence using sentence case.
-3. Repository should be assigned all relevant topics.
-4. Prefix forked repositores with `forked-`. For example `forked-brickmmo-core`.
-5. Always include a `.gitignore` file. The file should at least ignore `.DS_Store` files.
+
+    For repositores using GitHub Pages and Markdown, the description should be short and without a period as the description is placed into the home page title. For example `_reademe | Formatting standards for GitHub repos and README.md files`.
+5. Repository should be assigned all relevant topics.
+6. Prefix forked repositores with `forked-`. For example `forked-brickmmo-core`.
+7. Always include a `.gitignore` file. The file should at least ignore `.DS_Store` files.
 
 ## README.md Files
 

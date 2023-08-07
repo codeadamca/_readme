@@ -36,7 +36,7 @@ When adding images to a README.md file, place the files inside a folder names `_
 3. Most screenshots are 624 pixels wide. Terminal screenshots are 400 pixels wide. 
 4. Screenshot files are prefixed with `screenshot`. For example `screenshot-codeadam-ca.png`.
 
-## _readme.css
+## readme.css
 
 The _readme guidelines also include a basic CSS file hosted in this repo that adds some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `_import.css` file at the top of your Markdown files:
 

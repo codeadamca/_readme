@@ -38,7 +38,7 @@ When adding images to a README.md file, place the files inside a folder names `_
 
 ## readme.css
 
-The _readme guidelines also include a basic CSS file hosted in this repo that adds some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `_import.css` file at the bottom of your Markdown files:
+The _readme guidelines also include a basic CSS file hosted in this repo that adds some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `readme.css` file directly after the main title:
 
 ```html
 <style>@import url("//readme.codeadam.ca/readme.css");</style>

@@ -1,3 +1,7 @@
 .markdown-body table {
   display: table !important;
 } 
+.markdown-body table td,
+.markdown-body table th {
+  text-align: left !important;
+} 

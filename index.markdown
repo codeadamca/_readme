@@ -42,12 +42,12 @@ The _readme guidelines also include a basic CSS file hosted in this repo that ad
 
 ```html
 <style>
-@import url("//readme.codeadam.ca/_readme.css");
+@import url("//readme.codeadam.ca/readme.css");
 </style>
 ```
 
 > You can view the raw CSS file at
-> [https://readme.codeadam.ca/_readme.css](https://readme.codeadam.ca/_readme.css)
+> [https://readme.codeadam.ca/readme.css](https://readme.codeadam.ca/readme.css)
 
 ---
 

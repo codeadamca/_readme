@@ -46,7 +46,7 @@ The _readme guidelines also include a basic CSS file hosted in this repo that ad
 </style>
 ```
 
-> You can view the raw CSS file at
+> You can view the raw CSS file at  
 > [https://readme.codeadam.ca/readme.css](https://readme.codeadam.ca/readme.css)
 
 ---

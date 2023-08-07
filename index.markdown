@@ -1,5 +1,3 @@
-<style>@import url("//readme.codeadam.ca/readme.css");</style>
-
 # _readme
 
 A set of standard for GitHub repos, README.md files, and README.md assets.
@@ -54,3 +52,5 @@ The _readme guidelines also include a basic CSS file hosted in this repo that ad
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="50">
 </a>
+
+<style>@import url("//readme.codeadam.ca/readme.css");</style>

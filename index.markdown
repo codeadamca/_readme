@@ -38,6 +38,14 @@ When adding images to a README.md file, place the files inside a folder names `_
 3. Most screenshots are 624 pixels wide. Terminal screenshots are 400 pixels wide. 
 4. Screenshot files are prefixed with `screenshot`. For example `screenshot-codeadam-ca.png`.
 
+## Citations
+
+Citations are placed in a READEME.md or Markdown file using APA, a `>`, and wrapped in the `<small>` tag. For example:
+
+```markdown
+> <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
+```
+
 ## readme.css
 
 The _readme guidelines also include some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `readme.css` file at the top of the markdown file (or directly after the `#` title if you have one):

@@ -46,6 +46,10 @@ Citations are placed in a READEME.md or Markdown file using APA, a `>`, and wrap
 > <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
 ```
 
+Once rendered, it will appear as:
+
+> <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
+
 ## readme.css
 
 The _readme guidelines also include some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `readme.css` file at the top of the markdown file (or directly after the `#` title if you have one):

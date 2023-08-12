@@ -58,6 +58,11 @@ The _readme guidelines also include some basic CSS rules to the GitHub default s
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 ```
 
+Currently this CSS file adds the following syles:
+
+- Tables are 100% width
+- All table content ls left aligned
+
 > You can view the raw CSS file at  
 > [https://readme.codeadam.ca/readme.css](https://readme.codeadam.ca/readme.css)
 

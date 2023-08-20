@@ -28,6 +28,15 @@ When creating README.md files for your GitHub repositories, follow these guideli
     define('API_KEY', '<API_KEY>');
     define('API_SECRET', '<API_SECRET>');
     ```
+
+    Or:
+
+    ```php
+    DB_HOST=<DB_HOST>
+    DB_DATABASE=<DB_DATABASE>
+    DB_USERNAME=<DB_USERNAME>
+    DB_PASSWORD=<DB_PASSWORD>
+    ```
     
 ## README.md Assets
 

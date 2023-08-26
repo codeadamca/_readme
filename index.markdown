@@ -51,7 +51,7 @@ When adding images to a README.md file, place the files inside a folder names `_
 
 ## Citations
 
-Citations are placed in a READEME.md or Markdown file using APA, a `>`, and wrapped in the `<small>` tag. For example:
+Citations placed in a README.md or Markdown file shoud use APA guidelines, a `>`, and wrapped in the `<small>` tag. For example:
 
 ```markdown
 > <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>

@@ -44,14 +44,14 @@ When creating README.md files for your GitHub repositories, follow these guideli
 
 When adding images to a README.md file, place the files inside a folder names `_readme`. Images should follow these guidelines:
 
-1. Images names are all lowercase and use the kebab-case naming convention. For example `terminla-nom-start.jpg`.
+1. Images names are all lowercase and use the kebab-case naming convention. For example `terminal-nom-start.jpg`.
 2. Images should have a maximum width of 624 pixels.
 3. Most screenshots are 624 pixels wide. Terminal screenshots are 400 pixels wide. 
 4. Screenshot files are prefixed with `screenshot`. For example `screenshot-codeadam-ca.png`.
 
 ## Citations
 
-Citations placed in a README.md or Markdown file shoud use APA guidelines, a `>`, and wrapped in the `<small>` tag. For example:
+Citations placed in a README.md or Markdown file should use APA guidelines, a `>`, and wrapped in the `<small>` tag. For example:
 
 ```markdown
 > <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
@@ -69,7 +69,7 @@ The _readme guidelines also include some basic CSS rules to the GitHub default s
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 ```
 
-Currently this CSS file adds the following syles:
+Currently this CSS file adds the following styles:
 
 - Tables are 100% width
 - All table content ls left aligned

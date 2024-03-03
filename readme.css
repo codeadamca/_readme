@@ -5,3 +5,6 @@
 .markdown-body table th {
   text-align: left !important;
 } 
+.markdown-down video {
+  margin-bottom: 10px;
+}

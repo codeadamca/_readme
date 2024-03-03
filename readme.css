@@ -7,4 +7,5 @@
 } 
 .markdown-down video {
   margin-bottom: 10px;
+  border: 10px solid grey;
 }

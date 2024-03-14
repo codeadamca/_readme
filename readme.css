@@ -4,6 +4,7 @@
 .markdown-body table td,
 .markdown-body table th {
   text-align: left !important;
+  vertical-align: top !important;
 } 
 .markdown-body video {
   margin-bottom: 10px;

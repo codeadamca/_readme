@@ -42,7 +42,7 @@ When creating README.md files for your GitHub repositories, follow these guideli
     
 ## README.md Assets
 
-When adding images to a README.md file, place the files inside a folder names `_readme`. Images should follow these guidelines:
+When adding images to a README.md file, place the files inside a folder named `_readme`. Images should follow these guidelines:
 
 1. Images names are all lowercase and use the kebab-case naming convention. For example `terminal-nom-start.jpg`.
 2. Images should have a maximum width of 624 pixels.

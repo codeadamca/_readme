@@ -11,10 +11,10 @@ When creating GitHub repos, follow these guidelines:
 1. Repository names are all lowercase and use the kebab-case naming convention. For example `php-contact-form`, `html-forms`, or `personal-portfolio`.
 2. Repository descriptions are one short sentence using sentence case.
 
-    For repositores using GitHub Pages and Markdown, the description should be short and without a period as the description is placed into the home page title. For example `_readme | Formatting standards for GitHub repos and README.md files`.
+    For repositories using GitHub Pages and Markdown, the description should be short and without a period as the description is placed into the home page title. For example `_readme | Formatting standards for GitHub repos and README.md files`.
 
 3. Repository should be assigned all relevant topics in the repo settings.
-4. Prefix forked repositores with `forked-`. For example `forked-brickmmo-core`. These repos do not need to follow _readme guidlines, this would cause future conflicts when pulling forked updates.
+4. Prefix forked repositories with `forked-`. For example `forked-brickmmo-core`. These repos do not need to follow _readme guidelines, this would cause future conflicts when pulling forked updates.
    
 5. Always include a `.gitignore` file. The file should at least ignore `.DS_Store` files.
 
@@ -42,7 +42,7 @@ When creating README.md files for your GitHub repositories, follow these guideli
     
 ## README.md Assets
 
-When adding images to a README.md file, place the files inside a folder names `_readme`. Images should follow these guidelines:
+When adding images to a README.md file, place the files inside a folder named `_readme`. Images should follow these guidelines:
 
 1. Images names are all lowercase and use the kebab-case naming convention. For example `terminal-nom-start.jpg`.
 2. Images should have a maximum width of 624 pixels.

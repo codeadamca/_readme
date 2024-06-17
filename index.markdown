@@ -63,11 +63,19 @@ Once rendered, it will appear as:
 
 ## readme.css
 
-The _readme guidelines also include some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `readme.css` file at the top of the markdown file (or directly after the `#` title if you have one):
+The _readme guidelines also include some basic CSS rules to the GitHub default styles for Markdown conversion. To apply these CSS rules just import the `readme.css` file at the top of the markdown file (or directly after the `#` title if you have one). You can embed the css from this repo:
 
 ```html
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 ```
+
+Or the BrickMMO CDN:
+
+```html
+<style>@import url("https://cdn.brickmmo.com/readm@1.0.0/readme.css");</style>
+```
+
+> CDN is available at [https://cdn.brickmmo.com/](https://cdn.brickmmo.com/)
 
 Currently this CSS file adds the following styles:
 

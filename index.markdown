@@ -18,6 +18,10 @@ When creating GitHub repos, follow these guidelines:
    
 5. Always include a `.gitignore` file. The file should at least ignore `.DS_Store` files.
 
+## README.md Content
+
+Use level one and two headings. Include a description of that the repo contents is for, a list of technology used, and a list of related resources. BrickMMO and CodeAdam README.md files end with a logo and link. 
+
 ## README.md Files
 
 When creating README.md files for your GitHub repositories, follow these guidelines:

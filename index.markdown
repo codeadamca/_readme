@@ -92,5 +92,5 @@ Currently this CSS file adds the following styles:
 ---
 
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="50">
-</a>  
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="100">
+</a>

@@ -17,10 +17,12 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 
 ## Repo Resources
 
+- [CodeAdam](https://codeadam.ca/)
 - [_readme](https://readme.codeadam.ca)
 - [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>

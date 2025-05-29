@@ -89,6 +89,9 @@ Currently this CSS file adds the following styles:
 > You can view the raw CSS file at  
 > [https://readme.codeadam.ca/readme.css](https://readme.codeadam.ca/readme.css)
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
